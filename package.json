@@ -1,0 +1,24 @@
+{
+  "name": "funapp",
+  "version": "1.0.0",
+  "description": "This will be an app for us to learn more about fullstack development",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcocastillo2506/funapp.git"
+  },
+  "author": "Marco Castilo Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcocastillo2506/funapp/issues"
+  },
+  "homepage": "https://github.com/marcocastillo2506/funapp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
