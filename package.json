@@ -18,13 +18,13 @@
   },
   "homepage": "https://github.com/marcocastillo2506/funapp#readme",
   "devDependencies": {
- "babel-core": "^6.23.1",
- "babel-loader": "^7.1.4",
- "babel-preset-env": "^1.7.0",
- "babel-preset-react": "^6.23.0",
- "webpack": "^2.2.1"
-},
-
+    "babel-core": "^6.23.1",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "webpack": "^2.2.1"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
